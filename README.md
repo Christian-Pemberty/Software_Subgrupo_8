@@ -1,9 +1,13 @@
-Software_Subgrupo_8                                       
+Software_Subgrupo_8  
+                                           
 
 Integrantes:
-JEISSON LEANDRO GUERRERO MOLANO
-LUIS ANGELO HERNANDEZ BLANCO
+
 CHRISTIAN CAMILO PEMBERTY VILLEGAS
+
+JEISSON LEANDRO GUERRERO MOLANO
+
+LUIS ANGELO HERNANDEZ BLANCO
 
 # Sistema de Gestión de Ventas - Java  
 
