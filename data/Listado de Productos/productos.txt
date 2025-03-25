@@ -1,0 +1,11 @@
+IDProducto;NombreProducto;PrecioPorUnidadProducto
+P100;Impresora;243667.55
+P101;Monitor;137626.48
+P102;Impresora;206206.38
+P103;Impresora;362792.16
+P104;Tablet;345899.73
+P105;Mouse;313423.60
+P106;Tablet;362143.07
+P107;Tablet;363936.19
+P108;Monitor;160908.38
+P109;Teclado;396349.38

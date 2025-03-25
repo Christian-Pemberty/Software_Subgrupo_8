@@ -1,0 +1,6 @@
+TipoDocumento;NúmeroDocumento;NombresVendedor;ApellidosVendedor
+CC;88054256;Camilo;Torres
+CC;26764693;Jeisson;Hernández
+CC;85409651;Luis;Guerrero
+CC;38073904;Leandro;Hernandez
+CC;41758986;Leandro;Blanco
