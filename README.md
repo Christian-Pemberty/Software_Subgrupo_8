@@ -1,1 +1,50 @@
 # Software_Subgrupo_8
+  _____       ______                      ______
+  / ___/____  / __/ /__      ______ ______/ ____/
+  \__ \/ __ \/ /_/ __/ | /| / / __ `/ ___/ __/   
+ ___/ / /_/ / __/ /_ | |/ |/ / /_/ / /  / /___   
+/____/\____/_/  \__/ |__/|__/\__,_/_/  /_____/   
+
+Integrantes:
+JEISSON LEANDRO GUERRERO MOLANO
+LUIS ANGELO HERNANDEZ BLANCO
+CHRISTIAN CAMILO PEMBERTY VILLEGAS
+
+# Sistema de Gestión de Ventas - Java  
+
+Este proyecto es una aplicación de consola desarrollada en **Java 8**, diseñada para la gestión de ventas en un negocio.  
+Permite el registro y seguimiento de **vendedores, productos e inventario**, con almacenamiento de datos en archivos **TXT**.  
+
+## Funcionalidades principales  
+
+✅   Gestión de Productos:  
+   - Crear y actualiza una base de datos de productos.  
+   - Control de inventario con cantidad disponible, precio y unidades vendidas.  
+
+✅   Gestión de Vendedores:  
+   - Registro de vendedores con validaciones.  
+   - Asignación de ventas a cada vendedor.  
+
+✅   Exportación de Datos:  
+   - Generar reportes en archivos **CSV y TXT** con el resumen de ventas.  
+
+- **Java 8**  
+- **Eclipse IDE**  
+- **Manejo de archivos TXT**  
+- **Colores ANSI en consola** para mejorar la visualización  
+
+Estructura de archivos 
+
+SRC
+┣ 📂 controller (Manejo de archivos y lógica de negocio)
+┃ ┃ ┗ FileReader.java
+┃ ┃ ┗ GenerateInfoFiles.java
+┃ ┃ ┗ ReportGenerator.java
+┃ ┣ 📂 Main
+┃ ┃ ┗ Main.java (Punto de entrada del programa)
+┃ ┣ 📂 model (Clases de datos)
+┃ ┃ ┗ ProductSold.java
+┃ ┃ ┗ Sale.java
+┃ ┃ ┗ Seller.java
+┃ ┣ 📂 view (Interfaz en consola pendiente por desarrollar)
+┃ ┃ ┗ ReportView.java
